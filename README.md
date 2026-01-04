@@ -2,6 +2,8 @@
 
 **Turn ideas into memorable icons.**
 
+[**🔴 Live Demo**](https://emojify-808358593854.us-west1.run.app/)
+
 Emojify is a modern web application that uses Gemini AI to generate custom, Apple-style emojis and stickers from text descriptions or uploaded photos. Whether you need a specific icon for a project or just want to visualize "a cyberpunk cat eating a taco," Emojify makes it happen in seconds.
 
 ## ✨ Features
